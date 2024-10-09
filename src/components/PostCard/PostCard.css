@@ -8,6 +8,10 @@
     border-radius: 30px;
 }
 
+.post-card:hover{
+    box-shadow: 0px 0px 16px 3px rgb(199, 199, 199);
+}
+
 .react-image{
     width: 100%;
     overflow: hidden;
